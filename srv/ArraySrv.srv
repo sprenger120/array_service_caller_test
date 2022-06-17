@@ -1,0 +1,4 @@
+uint16 otherMember
+Inner[2] fixedArray
+Inner[] dynArray
+uint8 otherMember2
